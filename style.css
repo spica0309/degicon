@@ -1,5 +1,5 @@
   body {
-    background: url("ufo.png"),url("ufo_top.png"),url("logo_black.png") ;
+    background: url("https://github.com/spica0309/degicon/blob/main/ufo.png?raw=true"),url("ufo_top.png"),url("logo_black.png") ;
     background-position: 22% 8%, 24% 5%, 50% 10%;
     background-size: 100px, 29px, 500px;
     background-repeat: no-repeat;
