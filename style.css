@@ -1,0 +1,65 @@
+  body {
+    background: url("ufo.png"),url("ufo_top.png"),url("logo_black.png") ;
+    background-position: 22% 8%, 24% 5%, 50% 10%;
+    background-size: 100px, 29px, 500px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+  p{
+    font-family: "游ゴシック";
+  }
+  div{
+    font-family: "游ゴシック";
+  }
+  .inline{
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+  .mb3{
+    margin-bottom: 3em;
+  }
+  .size{
+    font-size: 20px;
+  }
+  .headsize{
+    font-size: 50px;
+  }
+
+
+  a{
+    padding:5px 15px;
+    border:1px solid #aaa;
+    border-radius:5px;
+    text-decoration: none;
+  }
+  a:hover{
+    position:relative;
+    top:2px;
+    left:2px;
+    color:blue;
+  }
+
+  ul{
+    list-style-type: none;
+    padding-left: 0;
+  }
+  li{
+    padding: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .box1{
+    padding-left:30px;
+    padding-right: 30px;
+  }
+
+  .item {
+    display: inline-block;
+  }
+
+  .main {
+    padding-top: 150px;
+    overflow: auto;
+  }
